@@ -1,10 +1,10 @@
-mport java.util.Scanner;
+import java.util.Scanner;
 
 class Main {
   public static void main(String[] args) {
 
     char operator;
-    Double number1, number2, result;
+    Double n1, n2, result;
 
     // create an object of Scanner class
     Scanner input = new Scanner(System.in);
